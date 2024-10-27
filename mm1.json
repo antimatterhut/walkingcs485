@@ -1,0 +1,290 @@
+{
+    "0,0 N": {
+        "img": "/cimgs/00N.jpg"
+    },
+    "0,0 E": {
+        "img": "/cimgs/0ae.jpg"
+    },
+    "0,0 S": {
+        "img": "/cimgs/00S.jpg"
+    },
+    "0,0 W": {
+        "img": "/cimgs/00W.jpg"
+    },
+    "0,1 N": {
+        "img": "/cimgs/10N.jpg"
+    },
+    "0,1 S": {
+        "img": "/cimgs/10s.jpg"
+    },
+    "0,1 W": {
+        "img": "/cimgs/10w.jpg"
+    },
+    "0,1 E": {
+        "img": "/cimgs/10e.jpg"
+    },
+    "0,2 N": {
+        "img": "/cimgs/20n.jpg"
+    },
+    "0,2 S": {
+        "img": "/cimgs/20s.jpg"
+    },
+    "0,2 W": {
+        "img": "/cimgs/20w.jpg"
+    },
+    "0,2 E": {
+        "img": "/cimgs/20e.jpg"
+    },
+    "0,3 N": {
+        "img": "/cimgs/30n.jpg"
+    },
+    "0,3 S": {
+        "img": "/cimgs/30s.jpg"
+    },
+    "0,3 W": {
+        "img": "/cimgs/30w.jpg"
+    },
+    "0,3 E": {
+        "img": "/cimgs/30e.jpg"
+    },
+    "0,4 N": {
+        "img": "/cimgs/40n.jpg"
+    },
+    "0,4 S": {
+        "img": "/cimgs/40s.jpg"
+    },
+    "0,4 W": {
+        "img": "/cimgs/40w.jpg"
+    },
+    "0,4 E": {
+        "img": "/cimgs/40e.jpg"
+    },
+    "0,5 N": {
+        "img": "/cimgs/50n.jpg"
+    },
+    "0,5 S": {
+        "img": "/cimgs/50s.jpg"
+    },
+    "0,5 W": {
+        "img": "/cimgs/50w.jpg"
+    },
+    "0,5 E": {
+        "img": "/cimgs/50e.jpg"
+    },
+    "0,6 N": {
+        "img": "/cimgs/60n.jpg"
+    },
+    "0,6 S": {
+        "img": "/cimgs/60s.jpg"
+    },
+    "0,6 W": {
+        "img": "/cimgs/60w.jpg"
+    },
+    "0,6 E": {
+        "img": "/cimgs/60e.jpg"
+    },
+    "0,7 N": {
+        "img": "/cimgs/70n.jpg"
+    },
+    "0,7 S": {
+        "img": "/cimgs/70s.jpg"
+    },
+    "0,7 W": {
+        "img": "/cimgs/70w.jpg"
+    },
+    "0,7 E": {
+        "img": "/cimgs/70e.jpg"
+    },
+    "0,8 N": {
+        "img": "/cimgs/80n.jpg"
+    },
+    "0,8 S": {
+        "img": "/cimgs/80s.jpg"
+    },
+    "0,8 W": {
+        "img": "/cimgs/80w.jpg"
+    },
+    "0,8 E": {
+        "img": "/cimgs/70e.jpg"
+    },
+    "0,9 N": {
+        "img": "/cimgs/90n.jpg"
+    },
+    "0,9 S": {
+        "img": "/cimgs/90s.jpg"
+    },
+    "0,9 W": {
+        "img": "/cimgs/90w.jpg"
+    },
+    "0,9 E": {
+        "img": "/cimgs/90e.jpg"
+    },
+    "1,9 N": {
+        "img": "/cimgs/91n.jpg"
+    },
+    "1,9 S": {
+        "img": "/cimgs/91s.jpg"
+    },
+    "1,9 W": {
+        "img": "/cimgs/91w.jpg"
+    },
+    "1,9 E": {
+        "img": "/cimgs/91e.jpg"
+    },
+    "2,9 N": {
+        "img": "/cimgs/92n.jpg"
+    },
+    "2,9 S": {
+        "img": "/cimgs/92s.jpg"
+    },
+    "2,9 W": {
+        "img": "/cimgs/92w.jpg"
+    },
+    "2,9 E": {
+        "img": "/cimgs/92e.jpg"
+    },
+    "3,9 N": {
+        "img": "/cimgs/93n.jpg"
+    },
+    "3,9 S": {
+        "img": "/cimgs/93s.jpg"
+    },
+    "3,9 W": {
+        "img": "/cimgs/93w.jpg"
+    },
+    "3,9 E": {
+        "img": "/cimgs/93e.jpg"
+    },
+    "3,8 N": {
+        "img": "/cimgs/83n.jpg"
+    },
+    "3,8 S": {
+        "img": "/cimgs/83s.jpg"
+    },
+    "3,8 W": {
+        "img": "/cimgs/83w.jpg"
+    },
+    "3,8 E": {
+        "img": "/cimgs/83e.jpg"
+    },
+    "3,7 N": {
+        "img": "/cimgs/73n.jpg"
+    },
+    "3,7 S": {
+        "img": "/cimgs/73s.jpg"
+    },
+    "3,7 W": {
+        "img": "/cimgs/73w.jpg"
+    },
+    "3,7 E": {
+        "img": "/cimgs/73e.jpg"
+    },
+    "3,6 N": {
+        "img": "/cimgs/63n.jpg"
+    },
+    "3,6 S": {
+        "img": "/cimgs/63s.jpg"
+    },
+    "3,6 W": {
+        "img": "/cimgs/63w.jpg"
+    },
+    "3,6 E": {
+        "img": "/cimgs/63e.jpg"
+    },
+    "3,5 N": {
+        "img": "/cimgs/53n.jpg"
+    },
+    "3,5 S": {
+        "img": "/cimgs/53s.jpg"
+    },
+    "3,5 W": {
+        "img": "/cimgs/53w.jpg"
+    },
+    "3,5 E": {
+        "img": "/cimgs/53e.jpg"
+    },
+    "3,4 N": {
+        "img": "/cimgs/43n.jpg"
+    },
+    "3,4 S": {
+        "img": "/cimgs/43s.jpg"
+    },
+    "3,4 W": {
+        "img": "/cimgs/43w.jpg"
+    },
+    "3,4 E": {
+        "img": "/cimgs/43e.jpg"
+    },
+    "3,3 N": {
+        "img": "/cimgs/33n.jpg"
+    },
+    "3,3 S": {
+        "img": "/cimgs/33s.jpg"
+    },
+    "3,3 W": {
+        "img": "/cimgs/33w.jpg"
+    },
+    "3,3 E": {
+        "img": "/cimgs/33e.jpg"
+    },
+    "3,2 N": {
+        "img": "/cimgs/23n.jpg"
+    },
+    "3,2 S": {
+        "img": "/cimgs/23s.jpg"
+    },
+    "3,2 W": {
+        "img": "/cimgs/23w.jpg"
+    },
+    "3,2 E": {
+        "img": "/cimgs/23e.jpg"
+    },
+    "3,1 N": {
+        "img": "/cimgs/13n.jpg"
+    },
+    "3,1 S": {
+        "img": "/cimgs/13s.jpg"
+    },
+    "3,1 W": {
+        "img": "/cimgs/13w.jpg"
+    },
+    "3,1 E": {
+        "img": "/cimgs/13e.jpg"
+    },
+    "3,0 N": {
+        "img": "/cimgs/03n.jpg"
+    },
+    "3,0 S": {
+        "img": "/cimgs/03s.jpg"
+    },
+    "3,0 W": {
+        "img": "/cimgs/03w.jpg"
+    },
+    "3,0 E": {
+        "img": "/cimgs/missing.jpg"
+    },
+    "1,0 N": {
+        "img": "/cimgs/0an.jpg"
+    },
+    "1,0 S": {
+        "img": "/cimgs/0as.jpg"
+    },
+    "1,0 E": {
+        "img": "/cimgs/02e.jpg"
+    },
+    "1,0 W": {
+        "img": "/cimgs/0aw.jpg"
+    },
+    "2,0 N": {
+        "img": "/cimgs/03n.jpg"
+    },
+    "2,0 S": {
+        "img": "/cimgs/02s.jpg"
+    },
+    "2,0 E": {
+        "img": "/cimgs/03e.jpg"
+    },
+    "2,0 W": {
+        "img": "/cimgs/02w.jpg"
+    }
+}
